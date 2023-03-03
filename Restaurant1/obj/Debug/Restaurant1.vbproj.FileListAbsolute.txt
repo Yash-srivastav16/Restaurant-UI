@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\bin\Debug\Restaurant1.exe.config
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\bin\Debug\Restaurant1.exe
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\bin\Debug\Restaurant1.pdb
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\bin\Debug\Restaurant1.xml
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\obj\Debug\Restaurant1.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\obj\Debug\Restaurant1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\obj\Debug\Restaurant1.Resources.resources
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\obj\Debug\Restaurant1.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\obj\Debug\Restaurant1.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\obj\Debug\Restaurant1.exe
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\obj\Debug\Restaurant1.xml
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\obj\Debug\Restaurant1.pdb
+C:\Users\ASUS\source\repos\Restaurant1\Restaurant1\obj\Debug\Restaurant1.Form1.resources
